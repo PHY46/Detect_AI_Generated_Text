@@ -6,7 +6,7 @@ AI가 생성한 글인지 사람이 작성한 글인지 판별하는 대회
 - Public Score : 0.9315
 
 ---
-[Baseline Code](https://www.kaggle.com/code/datafan07/train-your-own-tokenizer?scriptVersionId=153008703)
+[Baseline Code](https://www.kaggle.com/code/datafan07/train-your-own-tokenizer?scriptVersionId=153008703)  
 Word Cloud, Box Plot, Scatter Plot 등을 통해 EDA 분석 및 특징 추출  
 TF-IDF vectorize  
 GridSearchCV를 통해 최적의 hyperparameter를 탐색  
